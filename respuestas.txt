@@ -1,2 +1,20 @@
 Respuestas a las preguntas de la práctica 3
 1.El propósito de trabajar con múltiples ramas es permitir trabajar en distintas versiones un mismo proyecto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.Una de las ventajas de la reorganización es que puedes sacar las diferencias introducidas por cada confirmación en la rama donde estás, guardar esas diferencias en archivos temporales, reiniciar la rama actual hasta llevarla a la misma confirmación en la rama de donde quieres reorganizar, y, finalmente, vuelve a aplicar ordenadamente los cambios.
